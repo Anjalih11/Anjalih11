@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalih11" alt="anjalih11" /></a> </p> 
 
-- 🔭 I’m currently working on **Open source projects of GSSOC 2022**
+- 🔭 Had Contributed to **Open source projects of GSSOC 2022**
 
 - 🌱 I’m currently learning **Data structure and algorithm.**
 
