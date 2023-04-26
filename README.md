@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anjalimhavanur@gmail.com**
 
-- ⚡ likes **I love to dance**
+- ⚡ likes **Dance,Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
