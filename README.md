@@ -1,7 +1,6 @@
 👋 Hello, I'm Anjali Havanur!
 
 
-![Data Analyst](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 
 I'm a Data Analyst with 1+ year of Experince. I am passionate about transforming raw data into meaningful insights that help drive better business decisions.
