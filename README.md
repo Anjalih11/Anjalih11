@@ -1,7 +1,7 @@
 👋 Hello, I'm Anjali Havanur!
 
 
-
+![Data Visualization](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 I'm a Data Analyst with 1+ year of Experince. I am passionate about transforming raw data into meaningful insights that help drive better business decisions.
 
@@ -31,6 +31,7 @@ Using Automating data tasks, data cleaning, and leveraging libraries like Pandas
 Building real-world analytics projects
 
 📫 Connect With Me
+
 LinkedIn: https://www.linkedin.com/in/anjali-havanur/
 
 Email: hanjali112001@gmail.com
