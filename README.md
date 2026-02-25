@@ -1,5 +1,9 @@
 👋 Hello, I'm Anjali Havanur!
-![Data Analytics](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+
+
+![Data Analyst Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Anjali%20Havanur&fontSize=40&fontColor=ffffff)
+
+
 I'm a Data Analyst with 1+ year of Experince. I am passionate about transforming raw data into meaningful insights that help drive better business decisions.
 
 My toolkit includes:
