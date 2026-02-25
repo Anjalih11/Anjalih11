@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="GIF_LINK_HERE" width="500">
+  <img src="https://mrfreelancer9.medium.com/why-data-analytics-is-the-most-popular-career-right-now-4344f2e24b38" width="500">
 </p>
 
 
