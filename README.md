@@ -1,11 +1,5 @@
 👋 Hello, I'm Anjali Havanur!
 
-
-<p align="center">
-  <img src="https://mrfreelancer9.medium.com/why-data-analytics-is-the-most-popular-career-right-now-4344f2e24b38" width="500">
-</p>
-
-
 I'm a Data Analyst with 1+ year of Experince. I am passionate about transforming raw data into meaningful insights that help drive better business decisions.
 
 My toolkit includes:
