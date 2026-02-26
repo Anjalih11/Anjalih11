@@ -1,6 +1,6 @@
 👋 Hello, I'm Anjali Havanur!
 
-I'm a Data Analyst with 1+ year of Experince. I am passionate about transforming raw data into meaningful insights that help drive better business decisions.
+I'm a Data Analyst with 2 year of Experince. I am passionate about transforming raw data into meaningful insights that help drive better business decisions.
 
 My toolkit includes:
 
