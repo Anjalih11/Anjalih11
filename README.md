@@ -1,50 +1,77 @@
-👋 Hello, I'm Anjali Havanur!
+<h1 align="center">👋 Hello, I'm Anjali Havanur!</h1>
 
-I'm a Data Analyst with 2 year of Experince. I am passionate about transforming raw data into meaningful insights that help drive better business decisions.
+<h3 align="center">📊 Data Analyst | Turning Data into Insights</h3>
 
-My toolkit includes:
+---
 
-Excel: Advanced formulas, Pivot Tables, Power Query (basic), data cleaning, dashboard creation, and reporting.
-Power BI: Interactive dashboards, data modeling, and basic DAX.
-SQL: Writing queries using SELECT, WHERE, GROUP BY, JOINS, and aggregate functions for data extraction and analysis.
-Programming Knowledge: Basic Python and strong programming fundamentals.
+## 🌟 About Me
 
-🛠️ My Skill Set
+I'm a **Data Analyst with 2 years of experience** who enjoys transforming **raw data into meaningful insights** that help businesses make smarter decisions.
+
+I love working with **data visualization, analytics, and problem-solving** to uncover patterns and tell stories through data.
+
+💡 My goal is to use **data-driven insights** to solve real-world business problems.
+
+---
+
+## 🚀 My Toolkit
+
+### 📊 Data Analysis & Visualization
+- **Excel** – Advanced formulas, Pivot Tables, Data Cleaning, Dashboards
+- **Power BI** – Interactive dashboards, Data modeling, Basic DAX
+- **SQL** – Data extraction, joins, aggregations, and query optimization
+
+### 💻 Programming
+- **Python (Basic)** – Data analysis fundamentals
+
+---
+
+## 🛠️ My Skill Set
+
+<p align="left">
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+</p>
 
-🌱 Currently Improving
+---
 
-Advanced SQL
+## 🌱 Currently Improving
 
-Advanced DAX in Power BI
+📚 **Advanced SQL**  
+📊 **Advanced DAX in Power BI**  
+🐍 **Python for Data Analysis (Pandas & NumPy)**  
+📈 **Building real-world data analytics projects**
 
-Using Automating data tasks, data cleaning, and leveraging libraries like Pandas, NumPy for data analysis.
+---
 
-Building real-world analytics projects
+## 📂 Featured Projects
 
-📫 Connect With Me
+🔹 **HR Data Analytics Dashboard**  
+Analyzed employee attendance patterns including **WFH %, Presence %, and Sick Leave trends**.
 
-LinkedIn: https://www.linkedin.com/in/anjali-havanur/
+🔹 **Credit Card Weekly Dashboard**  
+Built Power BI dashboards to analyze **revenue trends, customer behavior, and transaction insights**.
 
-Email: hanjali112001@gmail.com
+🔹 **Ecommerce Sales Dashboard**  
+Visualized **sales performance, profit trends, customer analysis, and payment insights**.
 
+---
 
-<!--
-**Anjalih11/Anjalih11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
 
-Here are some ideas to get you started:
+💼 **LinkedIn**  
+https://www.linkedin.com/in/anjali-havanur/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email**  
+hanjali112001@gmail.com
+
+---
+
+⭐ *Always excited to learn new technologies and work on data-driven projects!*
