@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Anjali Havanur!</h1>
+<!---<h1 a👋 Hello, I'm Anjali Havanur!</h1>
 
 <h3 align="center">📊 Data Analyst | Turning Data into Insights</h3>
 
@@ -75,3 +75,4 @@ hanjali112001@gmail.com
 ---
 
 ⭐ *Always excited to learn new technologies and work on data-driven projects!*
+--->
